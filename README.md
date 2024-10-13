@@ -1,4 +1,4 @@
-# fork-me test push
+# fork-me
 
 Проект для изучения работы механизма `fork` в GitHub.
 
